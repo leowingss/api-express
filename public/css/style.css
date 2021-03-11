@@ -1,0 +1,28 @@
+body{
+    font-family: Arial;
+    font-size: 14px;
+    background-color:gainsboro;
+
+    
+}
+#titulo{color:burlywood}
+h2.ingredientes{color:burlywood}
+ul#lista li {text-align: left;}
+#cor{color: red;}
+
+p{
+    font-size: 14px;
+    text-align:justify;
+    line-height: 9px;
+    
+}
+h2{
+    color: burlywood;
+}
+h3{
+    text-align: center;
+    line-height: 9px;
+}
+h4{
+    font-style: italic;
+}
